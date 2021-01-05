@@ -17,7 +17,7 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dayjs": "^1.7.5",
     "iview": "^3.4.2",
     "js-base64": "^2.5.1",
