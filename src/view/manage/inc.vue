@@ -75,7 +75,7 @@
                 </div>
                 <div id="footer">
                     <p><a target="_blank" href="https://github.com/Licoy/visamt">Visamt ©️ 2019</a></p>
-                    <p>技术讨论群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=6986b33edd8419ae1132e23d98d5f421a06b22d218794b89038f20cfa62a39ce">30261540</a></p>
+                    <p>技术讨论群：已解散，请使用issue进行讨论</p>
                 </div>
             </div>
         </div>
